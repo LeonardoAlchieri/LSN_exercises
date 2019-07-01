@@ -1,0 +1,21 @@
+1.2
+108
+0.05
+5.0
+0.0005
+10000
+1000
+0.34
+120
+39.948
+
+ReadInput >> temp;
+ReadInput >> npart;
+ReadInput >> rho;
+ReadInput >> rcut;
+ReadInput >> delta;
+ReadInput >> nstep;
+ReadInput >> iprint;
+ReadInput >> sigma;
+ReadInput >> ε/k;
+ReadInput >> mass;
