@@ -96,6 +96,8 @@ int main (int argc, char *argv[]){
     for(int j=0; j<N; j++){
         for(int i=0; i<L; i++){
             W = rnd.Gauss(0.,1.);
+         // Given the a priori knowledge that T=1, I omitted it completely in the formula. 
+         // A more general code would need to implement it (see below with the descrete)
             S_T = S_0 * exp((r - 1./2. * s*s) + s * W);
             
             C[j] += exp(-r*T)*max(0., S_T - K);
