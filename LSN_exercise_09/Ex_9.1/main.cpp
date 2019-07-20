@@ -145,7 +145,11 @@ int main(int argc, char ** argv)
                 papa_safe = selection(p);
                 
                 n=1;
-                
+                //
+                //  I know it's stupid, but without this cicle, for some reason,
+                //  the code gives worse results (but not my much).
+                //  It obviously runs faster though.
+                //
                 for(int count=0; count<j; count++)
                 {
                     if(mamma_safe == papa_safe)
