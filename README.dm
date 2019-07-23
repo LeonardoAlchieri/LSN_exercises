@@ -35,4 +35,7 @@ While I can confirm that everything worked perfectly on my local system (MacBook
 I cannot confirm that it will not have problems on another systems, e.g. the results are different
 or it just doesn't run.
 
+## ERRORS ##
+LSN_exercise_07 has a quite big mistake in the calculation for the function $g(r)$.
+
 ©Leonardo Alchieri, 2019
