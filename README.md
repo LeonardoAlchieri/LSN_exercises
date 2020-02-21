@@ -38,4 +38,4 @@ or it just doesn't run.
 ## ERRORS ##
 LSN_exercise_07 has a quite big mistake in the calculation for the function $g(r)$.
 
-©Leonardo Alchieri, 2019
+©Leonardo Alchieri, 2020
