@@ -4,9 +4,7 @@ Exercises for LSN, 2019
 
 ## PLEASE, DO NOT RUN THE NOTEBOOKS IF NOT NECESSARY. ##
 
-## Some of the exercises have in them a "os.system" command, which executes directly ##
-## C++ programms. While very useful to me while I was doing them, running everything ##
-## could take sometimes more then 15min. ##
+### Some of the exercises have in them a "os.system" command, which executes directly C++ programms. While very useful to me while I was doing them, running everything could take sometimes more then 15min. ###
 
 I decided to operate this way for two main reasons:
   • I could have everything under control in one enviroment.
